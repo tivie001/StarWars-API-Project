@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+h3 {
+    font-family: Star Jedi;
+}
+.card-text {
+    font-family: Avenir;
+}
+.yellow {
+    background-color: #FFE81F;
+    width: 20rem;
+    height: 90%;
+    margin-top: 15%;
+}
+table {
+    text-align: center;
+}
+i {
+    font-size: 2rem;
+}
+td {
+    width: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+img {
+    object-fit: cover;
+}
+.tr-border {
+    border-bottom: 1px solid grey;
+}
